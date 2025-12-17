@@ -38,7 +38,7 @@ The application follows the DAO (Data Access Object) design pattern to ensure cl
 - Frontend/Test classes for user interaction via console
 
 ---
-📸 Project screenshots 
+## 📸 Project Screenshots
 
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 113643" src="https://github.com/user-attachments/assets/1afbc729-f552-4bd8-bae4-da1a2645726d" />
 <img width="1920" height="1080" alt="Screenshot 2025-12-17 113727" src="https://github.com/user-attachments/assets/ae57714a-bdce-400a-8e09-f43679bce736" />
